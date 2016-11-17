@@ -17,13 +17,12 @@ print("The square root of 11 is", math.sqrt(11))
 # while the os package contains many useful modules for things like directory
 # path manipulation or accessing environment variables.
 
-# We can import individual items from a package with importing the whole
+# We can import individual items from a package without importing the whole
 # package:
 from math import log, cos
 print("cos(log(10)) =", cos(log(10)))
 
-# We can import everything in a package into the local namespace with
-# "from <package_name> import *"
+# We can import everything in a package into the local namespace with "from <package_name> import *"
 from statistics import *
 
 # The statistics package includes many functions, including for example stdev(),
