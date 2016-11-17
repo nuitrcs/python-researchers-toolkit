@@ -32,7 +32,7 @@ print(stdev(data))
 
 # In general, "from <package> import *" is a bad idea, as something in the
 # package may have the same name as something you've already defined in your
-# script, and the import will "clober" your local value. It also makes debugging
+# script, and the import will "clobber" your local value. It also makes debugging
 # much more difficult. Be explicit about what you want to import.
 
 # The os package is very useful for accessing environment variables:
