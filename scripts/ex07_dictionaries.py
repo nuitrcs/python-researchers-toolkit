@@ -5,7 +5,7 @@
 
 my_dict = dict()
 
-# We add items to the dictionary by assigning "keys" to "values".
+# We add items to the dictionary by assigning "values" to "keys".
 my_dict['dog'] = 'Rex' # key = 'dog', value = 'Rex'
 my_dict['cat'] = 'Snowball'
 my_dict['velociraptor'] = 'Fluffy'
