@@ -39,3 +39,19 @@ def do_something_then_print(func, val):
     print(new_value)
 
 do_something_then_print(capitalize, "hello world") # prints "HELLO WORLD"
+
+# Functions have access to variables defined in the same file but outside the function:
+nba_champs = "Cavs"
+def print_champs():
+    print("The", nba_champs, "are NBA champs!")
+
+print_champs()
+
+# BUT! Variables created inside a function are not visible outside the function.
+def make_a_variable():
+    hidden_variable = "peek a boo!"
+
+try:
+    print(hidden_variable)
+except NameError:
+    print("hidden_variable doesn't exist here!")
