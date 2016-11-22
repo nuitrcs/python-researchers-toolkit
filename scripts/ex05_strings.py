@@ -31,6 +31,16 @@ a_longer_string = my_string + " And so is this."
 
 print(a_longer_string)
 
+# You can access a character in the string (the first item in a list is at
+# index 0.
+
+print(a_longer_string[0])
+
+# You can also access a range in the string. Let's extract "This" from the string
+# Notice that the range end with index 4 not 3.
+
+print(a_longer_string[0:4])
+
 # When a variable contains a string, it is said to be a "string object" and has
 # some nice features. For example, we can get an uppercase version of our
 # string:
