@@ -1,4 +1,6 @@
-# Researchers' Toolkit Series: Python Materials
+# Introduction To Python
+## Researchers' Toolkit Series
+
 
 This repository contains materials for use in the Researchers' Toolkit series
 Python workshop.
