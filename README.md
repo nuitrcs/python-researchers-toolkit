@@ -81,6 +81,10 @@ This online Intro to Python for Data Science class is available for free if you 
 (https://www.youtube.com/playlist?list=PLQ176FUIyIUY5Ii58pzoZhS_3qIBL80nz)
 
 
+### Helpful Websites
+[Stack overflow](https://www.stackoverflow.com) lets you search on programming questions and read up-voted answers.  Be aware that you may be reading old answers that do not apply to your version of python.
+
+
 ## Notes on the Python Scripts (from Matthew)
 
 Note that in the scripts I followed the convention from "Learn Python the Hard
