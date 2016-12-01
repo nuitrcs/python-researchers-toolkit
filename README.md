@@ -26,6 +26,21 @@ Instructors: Pascal Paschos, Janna Nugent, Alper Kinaci, Matthew Rich
 
     Where to go from here?  
 
+## Installing Anaconda3 and PyCharm
+
+1. [Install Python](https://docs.continuum.io/anaconda/install) using the Anaconda package
+
+  a. Choose Python 3.5, 64-bit option
+  
+  b. Keep all default options
+  
+2. [Install JetBrains PyCharm](https://www.jetbrains.com/pycharm/download/)
+
+  a. Select your platform: Windows or Mac
+  
+  b. Select the Community option
+  
+  c. Keep default options
 
 This repository contains materials for use in the Researchers' Toolkit series
 Python workshop.
