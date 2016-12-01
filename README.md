@@ -2,6 +2,8 @@
 
 Instructors: Pascal Paschos, Janna Nugent, Alper Kinaci, Matthew Rich
 
+*Please email us with any questions - we'd love to hear from you!*
+
 ## Schedule for December 1st
     1. Why Python?
 
