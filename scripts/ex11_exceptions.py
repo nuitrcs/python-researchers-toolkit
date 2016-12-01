@@ -1,6 +1,7 @@
 # Errors and exceptions will *definitely* occur in your code. Be prepared!
 
-# Python uses the "try" and "catch" keywords to capture possible errors in code.
+# Python uses the "try" and "except" keywords to capture possible errors in code.
+# without ending all execution
 
 try:
     impossible = 1/0

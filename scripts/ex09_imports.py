@@ -7,6 +7,7 @@
 # into your script.
 import datetime
 print("Today is", datetime.date.today())
+print("Date/time is", datetime.datetime.now())
 
 import math
 print("The square root of 11 is", math.sqrt(11))
