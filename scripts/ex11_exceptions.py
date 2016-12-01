@@ -30,6 +30,7 @@ except NameError:
 try:
     fail()
 except NameError as e:
+    print("The error occured becase", e)
     print("This particular error occurred at line", e.__traceback__.tb_lineno)
 
 # Finally, you can define your own exception types! This is very handy so that

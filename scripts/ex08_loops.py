@@ -15,6 +15,7 @@ print(animals[3].upper())
 # this will be no fun to type if our list had, say, 100 items in it.
 
 # Let's try with a "for" loop:
+print('let\'s try with a loop')
 for animal in animals:
     print(animal.upper())
 
@@ -38,6 +39,11 @@ for species in animal_names:
 alpha = "abcdefg"
 for letter in alpha:
     print(letter.upper())
+
+# Strings (by words):
+lyrics = "I did it my way"
+for word in lyrics.split(" "):
+    print(word.upper())
 
 # Related to the "for .. in" statement is the "while" statement. while keeps
 # executing a block of statements as long as the condition its given is true.

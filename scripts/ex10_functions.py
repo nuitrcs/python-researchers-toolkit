@@ -30,7 +30,8 @@ for player in cavs:
 def capitalize(word):
     return word.upper()
 
-capitalize("bing bong") # returns "BING BONG"
+my_variable = capitalize("bing bong") # returns "BING BONG" to my_variable
+print(my_variable)
 
 # Functions are actually variables like any other, meaning they can be passed as
 # arguments to other functions!
@@ -40,10 +41,13 @@ def do_something_then_print(func, val):
 
 do_something_then_print(capitalize, "hello world") # prints "HELLO WORLD"
 
-# Functions have access to variables defined in the same file but outside the function:
-nba_champs = "Cavs"
+# Functions have access to variables defined in the same file but outside the function
+# as long as the variables are defined before the function call:
+
 def print_champs():
     print("The", nba_champs, "are NBA champs!")
+
+nba_champs = "Cavs"
 
 print_champs()
 
