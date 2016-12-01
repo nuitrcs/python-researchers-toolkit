@@ -2,12 +2,12 @@
 
 Instructors: Pascal Paschos, Janna Nugent, Alper Kinaci, Matthew Rich
 
-## Schedule
+## Schedule for December 1st
     Why Python?
 
-    How to use PyCharm
+    Hands On: How to use PyCharm
 
-    Python Scripts:
+    Hands On: Python Scripts
         Print
         Comments
         Math
@@ -42,8 +42,43 @@ Instructors: Pascal Paschos, Janna Nugent, Alper Kinaci, Matthew Rich
   
   c. Keep default options
 
-This repository contains materials for use in the Researchers' Toolkit series
-Python workshop.
+## Where To Go From Here
+
+### Online Classes
+
+[Codecademy](https://www.codecademy.com/learn/python) -
+A free interactive online course designed for people without programming experience.  Allows for experimentation, and reinforces lessons with quizzes and projects.  Highly recommended.
+
+[Data Camp](https://www.datacamp.com/courses/intro-to-python-for-data-science) -
+This online Intro to Python for Data Science class is available for free if you register with Data Camp.  I haven’t taken this course myself, however our group uses Data Camp for our R class and this course is highly regarded.
+
+
+### Online Books
+
+[Non-Programmer’s Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Hello,_World) -  Written in a style that doesn’t assume programming experience.
+
+[Python Programming](https://en.wikibooks.org/wiki/Python_Programming/Overview) - Assumes prior programming experience.
+
+
+### Videos
+
+[Python in 45 Minutes or Less]
+(https://www.youtube.com/watch?v=N4mEzFDjqtA)
+
+[Python Programming]
+(https://www.youtube.com/watch?v=N4mEzFDjqtA)
+
+[Python Beginner Tutorial 1 (For Absolute Beginners)]
+(https://www.youtube.com/watch?v=cpPG0bKHYKc)
+
+[Getting Started with PyCharm from JetBrains]
+(https://www.youtube.com/watch?v=5rSBPGGLkW0&index=2&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
+
+[PyCharm Video Demos from JetBrains]
+(https://www.youtube.com/playlist?list=PLQ176FUIyIUY5Ii58pzoZhS_3qIBL80nz)
+
+
+## Notes on the Python Scripts (from Matthew)
 
 Note that in the scripts I followed the convention from "Learn Python the Hard
 Way" where the scripts do not have an initial "hashbang" line (the traditional
