@@ -42,7 +42,8 @@ Instructors: Pascal Paschos, Janna Nugent, Alper Kinaci, Matthew Rich
   
   c. Keep default options
 
-## Where To Go From Here
+
+## Where To Go From Here: Links
 
 ### Online Classes
 
