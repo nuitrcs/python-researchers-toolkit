@@ -3,11 +3,11 @@
 Instructors: Pascal Paschos, Janna Nugent, Alper Kinaci, Matthew Rich
 
 ## Schedule for December 1st
-    Why Python?
+    1. Why Python?
 
-    Hands On: How to use PyCharm
+    2. Hands On: How to use PyCharm
 
-    Hands On: Python Scripts
+    3. Hands On: Python Scripts
         Print
         Comments
         Math
@@ -24,7 +24,7 @@ Instructors: Pascal Paschos, Janna Nugent, Alper Kinaci, Matthew Rich
         Matplotlib
         Pandas
 
-    Where to go from here?  
+    4. Where to go from here?  
 
 ## Installing Anaconda3 and PyCharm
 
