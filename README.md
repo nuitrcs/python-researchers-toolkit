@@ -1,5 +1,30 @@
-# Introduction To Python
-## Researchers' Toolkit Series
+# Researchers' Toolkit: Introduction To Python
+
+Instructors: Pascal Paschos, Janna Nugent, Alper Kinaci, Matthew Rich
+
+## Schedule
+    Why Python?
+
+    How to use PyCharm
+
+    Python Scripts:
+        Print
+        Comments
+        Math
+        Variables
+        Strings
+        Lists
+        Dictionaries
+        Loops
+        Imports
+        Functions
+        Exceptions
+        Files
+        Numpy
+        Matplotlib
+        Pandas
+
+    Where to go from here?  
 
 
 This repository contains materials for use in the Researchers' Toolkit series
